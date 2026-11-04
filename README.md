@@ -1,0 +1,2 @@
+# PROTOTIPO-AUTOMATIZADO-DE-MONITOREO-Y-TRATAMIENTO-DE-AGUA-POTABLE-PARA-ZONAS-RURALES-DE-COLOMBIA
+Sistema mecánicamente automatizado de filtrado y control de flujo integrado en una estructura de tubería de PVC. El prototipo implementa una red de sensores que monitorean continuamente los parámetros fisicoquímicos clave del recurso hídrico: turbidez, pH, presencia de partículas u objetos sólidos, y estimación de microorganismos.
